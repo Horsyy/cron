@@ -4,7 +4,6 @@ Cron System for RedM Extended
 ## How to install
 * Download the lastest version of cron
 * Copy and paste ```cron``` folder to ```resources/cron```
-* Insert the .sql file into your database.
 * Add ```ensure cron``` to your ```server.cfg``` file
 * Now you are ready!
 
